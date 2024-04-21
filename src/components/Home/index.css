@@ -1,0 +1,16 @@
+.home-container {
+  background-color: #fcfbfa;
+
+  padding: 20px;
+}
+.un-ordered-list-tabs {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.menu-items-list-container {
+  list-style-type: none;
+  width: 100%;
+}
